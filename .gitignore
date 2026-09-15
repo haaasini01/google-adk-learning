@@ -1,0 +1,4 @@
+.venv/
+
+1-basic-agent/greeting_agent/__pycache__/
+1-basic-agent/greeting_agent/.env
