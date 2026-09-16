@@ -2,3 +2,6 @@
 
 1-basic-agent/greeting_agent/__pycache__/
 1-basic-agent/greeting_agent/.env
+
+2-tool-agent/tool_agent/__pycache__/
+2-tool-agent/tool_agent/.env
