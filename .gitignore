@@ -7,3 +7,6 @@
 2-tool-agent/tool_agent/.env
 
 3-litellm-agent/dad_jokes_agent/.env
+
+4-structured-outputs/email_agent/__pycache__/
+4-structured-outputs/email_agent/.env
