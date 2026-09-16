@@ -5,3 +5,5 @@
 
 2-tool-agent/tool_agent/__pycache__/
 2-tool-agent/tool_agent/.env
+
+3-litellm-agent/dad_jokes_agent/.env
