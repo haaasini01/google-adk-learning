@@ -10,3 +10,6 @@
 
 4-structured-outputs/email_agent/__pycache__/
 4-structured-outputs/email_agent/.env
+
+5-sessions-states-runners/question_answering_agent/__pycache__/
+5-sessions-states-runners/.env
