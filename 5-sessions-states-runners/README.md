@@ -6,15 +6,15 @@ a session inside an adk is nothing more than really two major peices of informat
     - tool calling (T)
     - agent responses (A)
     )
-- additional info:
-    id
-    app_name
-    user_id
+- additional info:  
+    id (session_id)  
+    app_name  
+    user_id  
     last_update_time
 
 session = a statefull chat history
 
-types of sessions
+diff ways to store sessions
 1. InMemorySessionService
     - where all the convo histories with each agent are saved in memory (as soon as the app is closed/gone we'll lose this memory)
 2. DatabaseSessionService
