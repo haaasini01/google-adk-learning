@@ -13,3 +13,7 @@
 
 5-sessions-states-runners/question_answering_agent/__pycache__/
 5-sessions-states-runners/.env
+
+6-persistent-memory/__pycache__/
+6-persistent-memory/memory_agent/__pycache__/
+6-persistent-memory/.env
