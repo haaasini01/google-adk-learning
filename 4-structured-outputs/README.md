@@ -1,6 +1,6 @@
-## Using LiteLLM (4-structured-outputs)
+## 4-structured-outputs
 
-1. input_schema isn't really used so much, even if used it just breaks so much cuz there's no guarantee that the previous agent's putput is gonna hv the same schema as this input_schema
+1. input_schema isn't really used so much, even if used it just breaks so much cuz there's no guarantee that the previous agent's output is gonna hv the same schema as this input_schema
 2. output_schema
 3. output_key => this key is used to store the final response given by the agent into the session's state dictionary with the key privided
 
