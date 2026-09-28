@@ -17,3 +17,7 @@
 6-persistent-memory/__pycache__/
 6-persistent-memory/memory_agent/__pycache__/
 6-persistent-memory/.env
+
+7-multi-agent/manager/__pycache__/
+7-multi-agent/manager/funny_nerd/__pycache__/
+7-multi-agent/manager/.env
