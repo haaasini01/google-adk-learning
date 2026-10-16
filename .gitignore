@@ -1,4 +1,5 @@
 .venv/
+.vscode/
 
 1-basic-agent/greeting_agent/__pycache__/
 1-basic-agent/greeting_agent/.env
@@ -21,3 +22,11 @@
 7-multi-agent/manager/__pycache__/
 7-multi-agent/manager/funny_nerd/__pycache__/
 7-multi-agent/manager/.env
+
+8-statefull-multi-agent/__pycache__/
+8-statefull-multi-agent/customer_service_agent/__pycache__/
+8-statefull-multi-agent/customer_service_agent/sub_agents/course_support_agent/__pycache__/
+8-statefull-multi-agent/customer_service_agent/sub_agents/order_agent/__pycache__/
+8-statefull-multi-agent/customer_service_agent/sub_agents/policy_agent/__pycache__/
+8-statefull-multi-agent/customer_service_agent/sub_agents/sales_agent/__pycache__/
+8-statefull-multi-agent/customer_service_agent/.env
