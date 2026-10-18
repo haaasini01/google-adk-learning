@@ -30,3 +30,10 @@
 8-statefull-multi-agent/customer_service_agent/sub_agents/policy_agent/__pycache__/
 8-statefull-multi-agent/customer_service_agent/sub_agents/sales_agent/__pycache__/
 8-statefull-multi-agent/customer_service_agent/.env
+
+9-callbacks/before_after_agent/.env
+9-callbacks/before_after_agent/__pycache__/
+9-callbacks/before_after_model/.env
+9-callbacks/before_after_model/__pycache__/
+9-callbacks/before_after_tool/.env
+9-callbacks/before_after_tool/__pycache__/
