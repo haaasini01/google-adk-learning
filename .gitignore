@@ -37,3 +37,9 @@
 9-callbacks/before_after_model/__pycache__/
 9-callbacks/before_after_tool/.env
 9-callbacks/before_after_tool/__pycache__/
+
+10-sequential-agents/lead_qualification_agent/__pycache__/
+10-sequential-agents/lead_qualification_agent/subagents/recommender/__pycache__/
+10-sequential-agents/lead_qualification_agent/subagents/scorer/__pycache__/
+10-sequential-agents/lead_qualification_agent/subagents/validator/__pycache__/
+10-sequential-agents/lead_qualification_agent/.env
